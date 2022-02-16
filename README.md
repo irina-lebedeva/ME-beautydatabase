@@ -60,7 +60,7 @@ Eigenface, Gabor, HOG, Landmarks(`landmarks.csv`), SIFT feature extraction and t
 
 ### Facenet features
 
-Generation of facenet 512 features, face comparison based in these features are located in `run crop, facenet 512 embedding extractors, facenet comparison.ipynb` and can be used to train shallow and deep predictors. The generated features are in the folder `FaceNet_512_features`
+Generation of facenet 512 features, face comparison based in these features are located in `facenet 512 embedding extractors, facenet comparison.ipynb` and can be used to train shallow and deep predictors. The generated features are in the folder `FaceNet_512_features`
 
 ### Keras models and other
 
